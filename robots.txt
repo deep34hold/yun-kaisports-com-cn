@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://deep34hold.github.io/yun-kaisports-com-cn/sitemap.xml
